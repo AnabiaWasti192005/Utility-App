@@ -7,22 +7,22 @@ items = [
     {
         'code':1,
         'name':'Galaxy plain bar',
-        'price':3.50
+        'price':3
     },
     {
         'code':2,
         'name':'Doritos sweet chilli pepper',
-        'price':2
+        'price':6
     },
     {
         'code':3,
         'name':'Raja chips',
-        'price':0.53
+        'price':1
     },
     {
         'code':4,
         'name':'Kitkat 4 finger bar',
-        'price':2.5000
+        'price':2
     },
     {
         'code':5,
